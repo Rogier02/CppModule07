@@ -1,3 +1,5 @@
+#pragma once
+
 #include "iter.hpp"
 #include <string>
 #include <iostream>
